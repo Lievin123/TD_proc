@@ -1,4 +1,4 @@
-# TD_proc : Travaux Dirigés sur les Procédures Stockées
+# TD_proc : Travaux pratiques sur les Procédures Stockées
 ### Date de rendu : Jeudi 23/01/2024
 
 <Membres du groupe :>
