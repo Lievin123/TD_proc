@@ -1,19 +1,19 @@
-#TD_proc : Travaux Dirigés sur les Procédures Stockées
-Date de rendu : Jeudi 23/01/2024
+# TD_proc : Travaux Dirigés sur les Procédures Stockées
+### Date de rendu : Jeudi 23/01/2024
 
-Membres du groupe :
+<Membres du groupe :>
 
-*ASIFIWE NZABANITA ETIENNE 20562
-*BALINGENE MUTSIIRWA Lievin 20748
-*BAMUMI WALUMBUKA HERITIER 
-*BATARIRA NEMEYE Jeremie
-*BHATRE NDEBHO Seraphin
-*BINGI MWENGE TUSSI
-*BINJA BASOLE Ghislaine
-*BISANGWA HAKIZA Lievin
+* ASIFIWE NZABANITA ETIENNE 20562
+* BALINGENE MUTSIIRWA Lievin 20748
+* BAMUMI WALUMBUKA HERITIER 
+* BATARIRA NEMEYE Jeremie
+* BHATRE NDEBHO Seraphin
+* BINGI MWENGE TUSSI
+* BINJA BASOLE Ghislaine
+* BISANGWA HAKIZA Lievin
 
 
-Lien GitHub : [https://github.com/Lievin123/TD_proc.git]
+### Lien GitHub : [https://github.com/Lievin123/TD_proc.git]
 
 Ce dépôt contient les solutions aux exercices des travaux dirigés sur les procédures stockées. Chaque exercice est implémenté dans un fichier Java séparé.
 
