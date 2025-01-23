@@ -7,13 +7,13 @@ public class convertisseur_temps {
         Scanner entree = new Scanner(System.in);
 
         System.out.print("Entrez un temps en secondes : ");
-        int totalSeconds = entree.nextInt();
+        int total_Secondes = entree.nextInt();
 
 
-        int heure = totalSeconds / 3600;
+        int heure = total_Secondes / 3600;
 
-        int minute = (totalSeconds % 3600) / 60;
-        int seconde = totalSeconds % 60;
+        int minute = (total_Secondes % 3600) / 60;
+        int seconde = total_Secondes % 60;
         
 
         System.out.println("Votre temps est " + heure + " heures, " + minute + " minutes et " + seconde + " secondes.");

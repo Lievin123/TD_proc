@@ -37,7 +37,7 @@ public class RechercheDansTableau {
                     break; // Sort de la boucle interne si le nombre est trouvé
                 }
             }
-            if (trouve) {
+            if  (trouve) {
                 break; // Sort de la boucle externe si le nombre est trouvé
             }
         }

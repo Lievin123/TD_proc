@@ -18,7 +18,7 @@ public class EquationSecondDegres {
         System.out.println("Résolution de l'équation : " + a + "x² + " + b + "x + " + c + " = 0");
 
         // Calcul du discriminant
-        double delta = calculerDiscriminant(a, b, c);
+        double delta = calculerDelta(a, b, c);
 
         // Affichage des solutions
         afficherSolutions(a, b, delta);
@@ -26,8 +26,8 @@ public class EquationSecondDegres {
         entree.close();
     }
 
-    // ici nous definissons la Fonction pour calculer le discriminant
-    public static double calculerDiscriminant(double a, double b, double c) {
+    // ici nous definissons la Fonction pour calculer le delta
+    public static double calculerDelta(double a, double b, double c) {
         return b * b - 4 * a * c;
     }
 

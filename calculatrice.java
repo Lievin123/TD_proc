@@ -31,12 +31,12 @@ public class calculatrice {
                     resultat = nombre1 / nombre2;
                 } else {
                     System.out.println("Erreur : division par zéro.");
-                    return ; // Termine le programme en cas de division par zéro
+                    return ; // on Termine le programme en cas de division par zéro
                 }
                 break;
             default:
                 System.out.println("Opérateur invalide.");
-                return; // Termine le programme si l'opérateur est invalide
+                return; // on Termine le programme si l'opérateur est invalide
         }
 
         double doubleResultat = 2 * resultat;

@@ -1,4 +1,4 @@
-# TD_proc : Travaux pratiques sur les Procédures Stockées
+# TD_proc : Travaux Dirigés sur les Procédures Stockées
 ### Date de rendu : Jeudi 23/01/2024
 
 <Membres du groupe :>
@@ -6,7 +6,7 @@
 * ASIFIWE NZABANITA ETIENNE 20562
 * BALINGENE MUTSIIRWA Lievin 20748
 * BAMUMI WALUMBUKA HERITIER  21007
-* BATARIRA NEMEYE Jeremie
+* BATARIRA NEMEYE Jeremie 21439
 * BHATRE NDEBHO Seraphin 20890
 * BINGI MWENGE TUSSI 21065
 * BINJA BASOLE Ghislaine 20914
